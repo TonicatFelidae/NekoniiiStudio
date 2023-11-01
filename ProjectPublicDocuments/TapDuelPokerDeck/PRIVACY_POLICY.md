@@ -1,5 +1,5 @@
-# Tap Dual: Poker Deck - Privacy policy
-Welcome to the "Tap Dual: Poker Deck" game for Android!
+# Tap Duel: Poker Deck - Privacy policy
+Welcome to the "Tap Duel: Poker Deck" game for Android!
 
 This is an Android game application developed by Nekoniii Studio. The application is available on Google Play.
 
